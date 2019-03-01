@@ -10,7 +10,7 @@ function johnLennonFacts(facts){
   let i = 0
   while(i < 5){
     facts = `${facts[i]} !!!`
-    console.log(++i)
+    i++
   }
   return facts
 }
