@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments){
 
 function johnLennonFacts(facts){
   let i = 0
-  while(i <= 4){
+  while(i <= 3){
     facts = facts[i]
     console.log(++i)
   }
